@@ -1,7 +1,7 @@
 ### Hi there! I'm Isaac✌ 👋
 
 
-- 🔭 I’m a Front-end Developer
+- 🔭 I’m a Frontend Developer
 - ✨Skills: HTML, CSS, JavaScript, Vue.js, TailwindCSS, Nuxt.js
 - 🌱 Learning: React, Three.js
 - 📧: isaacvf.dev@gmail.com
