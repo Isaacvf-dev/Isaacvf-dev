@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Frontend Developer
 - ✨Skills: HTML, CSS, JavaScript, Vue.js, TailwindCSS, Nuxt.js
-- 🌱 Learning: React, Three.js
+- 🌱 Learning: React
 - 📧: isaacvf.dev@gmail.com
 - 😄 Pronouns: He/Him
 
