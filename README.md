@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m a Frontend Developer
-- ✨Skills: HTML, CSS, JavaScript, Vue.js, TailwindCSS, Nuxt.js
-- 🌱 Learning: React
+- ✨Skills: HTML, CSS, JavaScript, Vue.js, React, TailwindCSS, Nuxt.js
+- 🌱 Learning: React Router
 - 📧: isaacvf.dev@gmail.com
 - 😄 Pronouns: He/Him
 
