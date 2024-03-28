@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Frontend Developer
 - ✨Skills: HTML, CSS, JavaScript, Vue.js, React, TailwindCSS, Nuxt.js
-- 🌱 Learning: React Router
+- 🌱 Learning: Typescript
 - 📧: isaacvf.dev@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -11,10 +11,11 @@
   <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isaac-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Isaac-Nuxtjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="Isaac-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">  
   <img align="center" alt="Isaac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
+  <img align="center" alt="Isaac-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Isaac-Nuxtjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="Isaac-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
 </div>
 
