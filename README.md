@@ -3,7 +3,7 @@
 
 - 🔭 I’m a Frontend Developer
 - ✨Skills: HTML, CSS, JavaScript, Vue.js, React, TailwindCSS, Nuxt.js
-- 🌱 Learning: Typescript
+- 🌱 Learning: Salesforce Commerce Cloud
 - 📧: isaacvf.dev@gmail.com
 - 😄 Pronouns: He/Him
 
