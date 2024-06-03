@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m a Frontend Developer
-- ✨Skills: HTML, CSS, JavaScript, Vue.js, React, TailwindCSS, Nuxt.js
-- 🌱 Learning: Salesforce Commerce Cloud
+- ✨Skills: HTML, CSS, JavaScript, Vue.js, React, TailwindCSS, Nuxt.js, Salesforce Commerce Cloud development
+- 🌱 Learning: Next.js
 - 📧: isaacvf.dev@gmail.com
 - 😄 Pronouns: He/Him
 
@@ -16,6 +16,7 @@
   <img align="center" alt="Isaac-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Isaac-Nuxtjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="Isaac-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Isaac-Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-original.svg">
 
 </div>
 
